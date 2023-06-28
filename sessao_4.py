@@ -70,7 +70,7 @@
 # # % é o resto da divissão
 
 # for numero in range(inicio, final):
-    
+
 #     if numero % 5 == 0:
 #         print( numero, "é divisivel por 5" )
 #     if numero % 7 == 0:
@@ -88,3 +88,15 @@
 #     else:
 #         impar +=1
 #         print(impar, "impar")
+
+# Soma dos elementos da lista
+
+# listB = range(1,50,1)
+# soma = 0
+# media = 0
+# for x in listB:
+#     if x:
+#         soma += x
+# media = soma / len(listB)
+# print(soma, media)
+
